@@ -1,0 +1,6 @@
+{
+    "type": "module",
+    "devDependencies": {
+        "serverless-offline": "^14.4.0"
+    }
+}
